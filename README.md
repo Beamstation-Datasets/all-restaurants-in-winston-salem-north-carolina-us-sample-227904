@@ -1,6 +1,6 @@
 # All Restaurants in Winston-Salem, North Carolina, US
 
-> Free BeamStation sample export with 74 rows and masked direct-contact fields.
+> Free BeamStation sample export with 83 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `227904` |
 | Location | Winston-Salem |
 | Category | Restaurants |
-| Full dataset size | 742 records |
-| Free sample size | 74 records (9.97%) |
-| Last export | 2026-04-14T20:58:09.007110+00:00 |
+| Full dataset size | 831 records |
+| Free sample size | 83 records (9.99%) |
+| Last export | 2026-04-21T23:22:23.615592+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-winston-salem-north-carolina-us-sample-227904/releases/download/sample-latest/beamstation_227904_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
