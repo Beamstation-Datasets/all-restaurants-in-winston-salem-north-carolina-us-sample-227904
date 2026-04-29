@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2f5d0bbb-f2ff-4dda-af50-ed1054f2bebe",
+  "export_job_id": "0c4e283a-dc28-4567-9910-e79e9658c049",
   "id_short": 227904,
-  "published_at": "2026-04-22T07:14:37Z",
+  "published_at": "2026-04-29T07:27:41Z",
   "repo_name": "all-restaurants-in-winston-salem-north-carolina-us-sample-227904",
   "sample_asset_name": "beamstation_227904_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/227904/beamstation_227904_restaurants-us-nc_SAMPLE_DIST.csv",
-  "sample_records": 83,
-  "sample_sha256": "ba88f9e4117a6f82178f9f418b873d4865dcc55275aede4c4edf6b82f6bb33b7",
-  "sample_size_bytes": 334540,
-  "total_records": 831
+  "sample_records": 79,
+  "sample_sha256": "72af24533c2069ac22dc52b664ada464ee15394087ed61d2cbe84a07987f4cd5",
+  "sample_size_bytes": 260743,
+  "total_records": 792
 }
